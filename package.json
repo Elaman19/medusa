@@ -90,5 +90,9 @@
     ],
     "coverageDirectory": "./coverage",
     "testEnvironment": "node"
+  },
+  "engines": {
+    "node": "18.14.2",
+    "npm": "9.5.0"
   }
 }
